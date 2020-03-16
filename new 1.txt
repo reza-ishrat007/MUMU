@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ishrat Reza</title>
+</head>
+<body>
+<h1>This is Introduction<h1>
+<p>This is Ishrat Reza. Id 14304128. Student from Brac Business School. Major in Marketing & E-business. This is MSc 452.</p>
+</body>
+</html>
